@@ -1,0 +1,32 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+
+
+.questinsHideContainer {
+    display: none;
+}
+
+
+.mainBackground {
+    background-color: #dfe9e8;
+}
+
+
+.additionSupplement {
+    margin: 0 auto;
+    margin: 40px 40px;
+    max-width: 750px;
+    color: black;
+    background-color: #ebebf1;
+    border-radius: 10px;
+    padding: 20px 40px;
+    font-style: italic;
+}
